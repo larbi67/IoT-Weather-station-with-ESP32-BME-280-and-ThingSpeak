@@ -5,13 +5,13 @@
 
 #define SEALEVELPRESSURE_HPA (1013.25)
  
-const char* ssid = "MikroTik-2";   // Your WIFI network SSID (name)
-const char* password = "simo123456simo123456";   // Your WIFI network password
+const char* ssid = "xxxxxxxxx";   // Your WIFI network SSID (name)
+const char* password = "xxxxxxxxx";   // Your WIFI network password
  
 WiFiClient  client;
  
-unsigned long myChannelNumber = 1683829; // SECRET_CH_ID
-const char * myWriteAPIKey = "2K6PZA2XFZ9TKT50"; SECRET_WRITE_APIKEY
+unsigned long myChannelNumber = xxxxxxxxxxx; // SECRET_CH_ID
+const char * myWriteAPIKey = "xxxxxxxxxxxxxxxxxx"; SECRET_WRITE_APIKEY
  
 // Timer variables
 unsigned long lastTime = 0;
