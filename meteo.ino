@@ -11,7 +11,7 @@ const char* password = "xxxxxxxxx";   // Your WIFI network password
 WiFiClient  client;
  
 unsigned long myChannelNumber = xxxxxxxxxxx; // SECRET_CH_ID
-const char * myWriteAPIKey = "xxxxxxxxxxxxxxxxxx"; SECRET_WRITE_APIKEY
+const char * myWriteAPIKey = "xxxxxxxxxxxxxxxxxx"; //SECRET_WRITE_APIKEY
  
 // Timer variables
 unsigned long lastTime = 0;
